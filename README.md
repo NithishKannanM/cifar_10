@@ -68,9 +68,9 @@ By visualizing training and test performance, we highlight the improvements in g
 
 ```bash
 git clone https://github.com/NithishKannanM/cifar_10.git
-cd cifar10-cnn
+cd cifar10
 pip install -r requirements.txt
-python cifar10_cnn.py
+python cifar10.py
 ```
 
 ---
