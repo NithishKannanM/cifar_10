@@ -1,5 +1,3 @@
----
-
 ## 🧠 CIFAR-10 Image Classification using CNN, BatchNorm & Dropout
 
 This project compares two CNN models trained on the CIFAR-10 dataset:
@@ -52,7 +50,7 @@ By visualizing training and test performance, we highlight the improvements in g
 
 #### 🟢 Training Logs:
 
-<img src="result_whitout_da.png" width="600"/>
+<img src="result_without_da.png" width="600"/>
 
 *You can clearly see the improved validation accuracy and reduced overfitting using BatchNorm and Dropout.*
 
