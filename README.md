@@ -67,7 +67,7 @@ By visualizing training and test performance, we highlight the improvements in g
 ### 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/cifar10-cnn.git
+git clone https://github.com/NithishKannanM/cifar_10.git
 cd cifar10-cnn
 pip install -r requirements.txt
 python cifar10_cnn.py
